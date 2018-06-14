@@ -1,0 +1,10 @@
+C:\Users\kkara\source\repos\Калькулятор (Demo)\Калькулятор (Demo)\bin\Debug\Калькулятор (Demo).exe.config
+C:\Users\kkara\source\repos\Калькулятор (Demo)\Калькулятор (Demo)\bin\Debug\Калькулятор (Demo).exe
+C:\Users\kkara\source\repos\Калькулятор (Demo)\Калькулятор (Demo)\bin\Debug\Калькулятор (Demo).pdb
+C:\Users\kkara\source\repos\Калькулятор (Demo)\Калькулятор (Demo)\obj\Debug\Калькулятор__Demo_.Form1.resources
+C:\Users\kkara\source\repos\Калькулятор (Demo)\Калькулятор (Demo)\obj\Debug\Калькулятор__Demo_.Properties.Resources.resources
+C:\Users\kkara\source\repos\Калькулятор (Demo)\Калькулятор (Demo)\obj\Debug\Калькулятор (Demo).csproj.GenerateResource.cache
+C:\Users\kkara\source\repos\Калькулятор (Demo)\Калькулятор (Demo)\obj\Debug\Калькулятор (Demo).csproj.CoreCompileInputs.cache
+C:\Users\kkara\source\repos\Калькулятор (Demo)\Калькулятор (Demo)\obj\Debug\Калькулятор (Demo).exe
+C:\Users\kkara\source\repos\Калькулятор (Demo)\Калькулятор (Demo)\obj\Debug\Калькулятор (Demo).pdb
+C:\Users\kkara\source\repos\Калькулятор (Demo)\Калькулятор (Demo)\obj\Debug\Калькулятор (Demo).csprojResolveAssemblyReference.cache
